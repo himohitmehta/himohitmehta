@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himohitmehta" alt="himohitmehta" /></a> </p>
 
-- 🔭 I’m currently working on [Lattis](https://lattis.ai)
+- 🔭 I’m currently working on [Lattis](https://lattis.ai) and [Saroh.io](https://saroh.io), an open source platform for creating blogs.
 
 - 🌱 I’m currently learning **Python and AI app development**
 
