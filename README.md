@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Python and AI app development**
 
-- 👯 I’m looking to collaborate on [memox.pro](https://github.com/memox-pro/memox.pro)
-
 - 👨‍💻 All of my projects are available at [mohitmehta.dev](mohitmehta.dev)
 
 - 💬 Ask me about **react, nextjs, and web development**
