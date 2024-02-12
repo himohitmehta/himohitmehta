@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python and AI app development**
 
-- 👨‍💻 All of my projects are available at [mohitmehta.dev](mohitmehta.dev)
+- 👨‍💻 All of my projects are available at [himohit.me](himohit.me)
 
 - 💬 Ask me about **react, nextjs, and web development**
 
