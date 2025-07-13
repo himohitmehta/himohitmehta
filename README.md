@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himohitmehta&show_icons=true&locale=en" alt="himohitmehta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himohitmehta&" alt="himohitmehta" /></p>
+
+[![roadmap.sh](https://roadmap.sh/card/wide/687143793ed27010bdbb3319?variant=dark&roadmaps=frontend%2Cai-engineer%2Cprompt-engineering%2Capi-design)](https://roadmap.sh)
